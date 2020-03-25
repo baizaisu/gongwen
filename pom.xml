@@ -44,7 +44,7 @@
         <dependency>
             <groupId>org.apache.lucene</groupId>
             <artifactId>lucene-core</artifactId>
-            <version>6.6.6</version>
+            <version>7.1.0</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.apache.lucene/lucene-queryparser -->
         <dependency>
